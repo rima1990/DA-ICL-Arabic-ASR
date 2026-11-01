@@ -1,7 +1,7 @@
 # DA-ICL: Distribution-Aware In-Context Learning for Arabic ASR Error Correction
 
 Companion repository for the paper published in IEEE Access:
-https://ieeexplore.ieee.org/document/11601033  (DOI: [paste DOI here])
+https://ieeexplore.ieee.org/document/11601033  (DOI: 10.1109/ACCESS.2026.3711662)
 
 ## Overview
 Two-stage framework for Arabic ASR:
